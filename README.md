@@ -1,1 +1,1 @@
-# CICD-jenkins-Qurinom
+# devops-automation
